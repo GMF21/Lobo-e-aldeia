@@ -1,0 +1,59 @@
+9 Ficheiros(4 ponto h,e um cpp)
+dps o main
+
+array de vidente[]{vidente}
+array de lobos[]{lobo1, lobo2 }...
+array de aldeos[]{aldeao1,2...}
+for(n<7){
+aldeao[n]...
+
+Personagens -
+
+-Lobos
+-Aldeoes
+-vidente
+
+Struct personagem
+id
+personagem
+status
+
+enum sts
+vivo
+morto
+dormindo
+
+
+
+Class 
+
+-Lobo (id, status personagem)
+lobo1,lobo2.
+getPersonagens
+setPersonagens
+-Vidente(id, status personagem)
+getPersonagens
+setPersonagens
+-Aldeao(id, status personagem)
+aldeao1 ... ate ao 8
+getPersonagens
+setPersonagens
+
+getId
+setId
+
+class extra(herança)
+
+ private:
+  -status (bool)
+  -getStatus
+  -setStatus
+  -voto(metodo)
+  -Id 
+  -getId()
+  -setId()
+  -acordado ()
+  -dormindo()
+  -morre();
+  nome jogador
+
