@@ -53,7 +53,15 @@ class extra(herança)
   -getId()
   -setId()
   -acordado ()
-  -dormindo()
+  -dormindo() //precorrer os arrays e trocar o status para adormecido
   -morre();
   nome jogador
+
+
+aldeia adormece 
+
+acorda os lobos
+   matar
+
+
 
